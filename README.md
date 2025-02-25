@@ -1,8 +1,8 @@
 ## Hi there 👋
-🎓 Electronics and Telecommunications student at AGH
-💡 Interested in programming, embedded systems, and automation
-🔧 Passionate about electronics, and software development
-💻 Working with C, C++, and Python, developing skills in embedded and automation tools
+- 🎓 Electronics and Telecommunications student at AGH
+- 💡 Interested in programming, embedded systems, and automation
+- 🔧 Passionate about electronics, and software development
+- 💻 Working with C, C++, and Python, developing skills in embedded and automation tools
 <!-- 
 **Jbanach123/Jbanach123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
